@@ -1,2 +1,2 @@
 # web-video-demo
-This is the repo ofbasic web  video demo through agora sdk.
+This is the repo of basic web  video demo through agora sdk.
